@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Paramètres de lancement (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-profiles=config" "-mod=@CF;@Dabs Framework;@VPPAdminTools;@VanillaPlusPlusMap" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-profiles=config" "-mod=@CF;@Dabs Framework;@VPPAdminTools" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Temps en seconde avant que la procédure de redémarrage du seveur ne se fasse (14400 = 4 heures)
 timeout 14390
 taskkill /im DayZServer_x64.exe /F
