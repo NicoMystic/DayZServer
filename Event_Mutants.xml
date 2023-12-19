@@ -1,0 +1,322 @@
+	<event name="AnimalMutantTushkano">
+		<nominal>30</nominal>
+		<min>15</min>
+		<max>30</max>
+		<lifetime>300</lifetime>
+		<restock>180</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>50</distanceradius>
+		<cleanupradius>30</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="10" min="5" type="Mutant_XZ_Tushkano1" />
+			<child lootmax="5" lootmin="0" max="10" min="5" type="Mutant_XZ_Tushkano2" />
+			<child lootmax="5" lootmin="0" max="10" min="5" type="Mutant_XZ_Tushkano3" />
+		</children>
+	</event>
+	<event name="AnimalMutantDog">
+		<nominal>30</nominal>
+		<min>20</min>
+		<max>30</max>
+		<lifetime>300</lifetime>
+		<restock>420</restock>
+		<saferadius>75</saferadius>
+		<distanceradius>15</distanceradius>
+		<cleanupradius>30</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="10" min="5" type="Mutant_XZ_Dog_Red" />
+			<child lootmax="5" lootmin="0" max="10" min="5" type="Mutant_XZ_Dog_White" />
+			<child lootmax="5" lootmin="0" max="10" min="5" type="Mutant_XZ_Dog_Fur" />
+			<child lootmax="5" lootmin="0" max="10" min="5" type="Mutant_XZ_Dog_Brown" />
+		</children>
+	</event>
+	<event name="AnimalMutantFresh">
+		<nominal>12</nominal>
+		<min>6</min>
+		<max>12</max>
+		<lifetime>300</lifetime>
+		<restock>120</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>100</distanceradius>
+		<cleanupradius>30</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="4" min="2" type="Mutant_XZ_Fresh1" />
+			<child lootmax="5" lootmin="0" max="4" min="2" type="Mutant_XZ_Fresh2" />
+			<child lootmax="5" lootmin="0" max="4" min="2" type="Mutant_XZ_Fresh3" />
+		</children>
+	</event>
+	<event name="AnimalMutantPseDog">
+		<nominal>30</nominal>
+		<min>10</min>
+		<max>30</max>
+		<lifetime>300</lifetime>
+		<restock>120</restock>
+		<saferadius>75</saferadius>
+		<distanceradius>10</distanceradius>
+		<cleanupradius>30</cleanupradius>
+	<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="20" min="10" type="Mutant_XZ_Pse_Dog1" />
+			<child lootmax="5" lootmin="0" max="20" min="10" type="Mutant_XZ_Pse_Dog2" />
+		</children>
+	</event>
+	<event name="AnimalMutantCat">
+		<nominal>40</nominal>
+		<min>18</min>
+		<max>40</max>
+		<lifetime>300</lifetime>
+		<restock>120</restock>
+		<saferadius>75</saferadius>
+		<distanceradius>15</distanceradius>
+		<cleanupradius>30</cleanupradius>
+	<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="15" min="6" type="Mutant_XZ_Cat_Bayn1" />
+			<child lootmax="5" lootmin="0" max="15" min="6" type="Mutant_XZ_Cat_Bayn2" />
+			<child lootmax="5" lootmin="0" max="15" min="6" type="Mutant_XZ_Cat_Bayn3" />
+		</children>
+	</event>
+	<event name="AnimalMutantGigant">
+		<nominal>3</nominal>
+		<min>1</min>
+		<max>3</max>
+		<lifetime>300</lifetime>
+		<restock>300</restock>
+		<saferadius>50</saferadius>
+		<distanceradius>15</distanceradius>
+		<cleanupradius>10</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_PGigant" />
+		</children>
+	</event>
+	<event name="AnimalMutantBoar">
+		<nominal>30</nominal>
+		<min>50</min>
+		<max>30</max>
+		<lifetime>300</lifetime>
+		<restock>300</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>10</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="20" min="10" type="Mutant_XZ_Boar1" />
+			<child lootmax="5" lootmin="0" max="20" min="10" type="Mutant_XZ_Boar2" />
+		</children>
+	</event>
+	<event name="AnimalMutantHimera">
+		<nominal>9</nominal>
+		<min>3</min>
+		<max>9</max>
+		<lifetime>300</lifetime>
+		<restock>300</restock>
+		<saferadius>30</saferadius>
+		<distanceradius>50</distanceradius>
+		<cleanupradius>20</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_Himera1" />
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_Himera2" />
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_Himera3" />
+		</children>
+	</event>
+	<event name="AnimalMutantHimeraSuper">
+		<nominal>3</nominal>
+		<min>0</min>
+		<max>3</max>
+		<lifetime>300</lifetime>
+		<restock>300</restock>
+		<saferadius>30</saferadius>
+		<distanceradius>50</distanceradius>
+		<cleanupradius>20</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>custom</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_Himera3_Super" />
+		</children>
+	</event>
+	<event name="AnimalMutantIzlom">
+		<nominal>18</nominal>
+		<min>6</min>
+		<max>18</max>
+		<lifetime>300</lifetime>
+		<restock>120</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Mutant_XZ_Izlom1" />
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Mutant_XZ_Izlom2" />
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Mutant_XZ_Izlom3" />
+		</children>
+	</event>
+	<event name="InfectedMutantXZBurer">
+		<nominal>24</nominal>
+		<min>16</min>
+		<max>24</max>
+		<lifetime>300</lifetime>
+		<restock>120</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="12" min="8" type="Mutant_XZ_Burer2" />
+			<child lootmax="5" lootmin="0" max="12" min="8" type="Mutant_XZ_Burer1" />
+		</children>
+	</event>
+	<event name="InfectedMutantXZKrovosos">
+		<nominal>9</nominal>
+		<min>3</min>
+		<max>9</max>
+		<lifetime>300</lifetime>
+		<restock>300</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_Krovosos1" />
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_Krovosos2" />
+			<child lootmax="5" lootmin="0" max="2" min="1" type="Mutant_XZ_Krovosos3" />
+
+		</children>
+	</event>
+	<event name="InfectedMutantXZPoltergeist">
+		<nominal>8</nominal>
+		<min>1</min>
+		<max>8</max>
+		<lifetime>300</lifetime>
+		<restock>300</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="3" min="1" type="Mutant_XZ_Poltergeist" />
+		</children>
+	</event>
+	<event name="InfectedMutantXZSnork">
+		<nominal>26</nominal>
+		<min>2</min>
+		<max>26</max>
+		<lifetime>300</lifetime>
+		<restock>120</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="13" min="1" type="Mutant_XZ_Snork1" />
+			<child lootmax="5" lootmin="0" max="13" min="1" type="Mutant_XZ_Snork2" />
+		</children>
+	</event>
+	<event name="InfectedMutantXZTrup">
+		<nominal>30</nominal>
+		<min>10</min>
+		<max>30</max>
+		<lifetime>60</lifetime>
+		<restock>120</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Zombi_XZ_Civ_Trup1" />
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Zombi_XZ_Civ_Trup2" />
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Zombi_XZ_Civ_Trup3" />
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Zombi_XZ_Civ_Trup4" />
+			<child lootmax="5" lootmin="0" max="6" min="2" type="Zombi_XZ_Civ_Trup5" />
+		</children>
+	</event>
+	<event name="InfectedMutantXZNovice">
+		<nominal>49</nominal>
+		<min>21</min>
+		<max>49</max>
+		<lifetime>60</lifetime>
+		<restock>120</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="7" min="3" type="Zombi_XZ_Novice1" />
+			<child lootmax="5" lootmin="0" max="7" min="3" type="Zombi_XZ_Novice2" />
+			<child lootmax="5" lootmin="0" max="7" min="3" type="Zombi_XZ_Novice3" />
+			<child lootmax="5" lootmin="0" max="7" min="3" type="Zombi_XZ_Novice4" />
+			<child lootmax="5" lootmin="0" max="7" min="3" type="Zombi_XZ_Novice5" />
+			<child lootmax="5" lootmin="0" max="7" min="3" type="Zombi_XZ_Novice6" />
+			<child lootmax="5" lootmin="0" max="7" min="3" type="Zombi_XZ_Novice7" />
+		</children>
+	</event>
+	<event name="InfectedMutantXZZorya">
+		<nominal>24</nominal>
+		<min>12</min>
+		<max>24</max>
+		<lifetime>60</lifetime>
+		<restock>120</restock>
+		<saferadius>150</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="5" lootmin="0" max="6" min="3" type="Zombi_XZ_Loner_Zorya" />
+			<child lootmax="5" lootmin="0" max="6" min="3" type="Zombi_XZ_Duty_Zorya" />
+			<child lootmax="5" lootmin="0" max="6" min="3" type="Zombi_XZ_Freedom_Zorya" />
+			<child lootmax="5" lootmin="0" max="6" min="3" type="Zombi_XZ_Monolith_Zorya" />
+		</children>
+	</event>
