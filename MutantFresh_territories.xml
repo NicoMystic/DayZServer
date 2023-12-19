@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4294923520"><!-- SKALISTY -->
+		<zone name="HuntingGround" smin="2" smax="5" dmin="0" dmax="0" x="13239" z="3185" r="15" d="2"/><!-- SKALISTY-->
+		<zone name="HuntingGround" smin="2" smax="5" dmin="0" dmax="0" x="13239" z="3185" r="15" d="2"/><!-- SKALISTY-->
+		<zone name="HuntingGround" smin="2" smax="5" dmin="0" dmax="0" x="13722" z="2792" r="15" d="2"/><!-- SKALISTY-->
+		<zone name="HuntingGround" smin="2" smax="5" dmin="0" dmax="0" x="13722" z="2792" r="15" d="2"/><!-- SKALISTY-->
+		<zone name="HuntingGround" smin="2" smax="5" dmin="0" dmax="0" x="13481" z="2815" r="15" d="2"/><!-- SKALISTY-->
+	 </territory>
+		  
+	<territory color="4294923520"><!-- Troitskoe -->
+		<zone name="HuntingGround" smin="3" smax="6" dmin="0" dmax="0"   x="7900" z="14600" y="127.5" r="50" d="2"/> 
+		<zone name="HuntingGround" smin="3" smax="6" dmin="0" dmax="0"   x="7900" z="14600" y="127.5" r="50" d="2"/> 
+	</territory>
+</territory-type>

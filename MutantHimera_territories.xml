@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4294923520"><!-- PAVLOVO -->
+		<zone name="HuntingGround" smin="0" smax="1" dmin="0" dmax="0" x="2160" z="3400" r="10" d="2"/>
+		<zone name="HuntingGround" smin="0" smax="1" dmin="0" dmax="0" x="2160" z="3400" r="10" d="2"/>
+	</territory>
+	
+	
+		<territory color="4294923520"><!-- BUNKER1 -->
+		<zone name="HuntingGround" smin="1" smax="1" dmin="1" dmax="1"   x="14043" z="14820" y="127.5" r="1" d="2"/> <!-- Bunker1 -->
+		</territory>
+
+</territory-type>

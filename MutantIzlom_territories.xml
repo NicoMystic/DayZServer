@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4294923520">
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="4" x="4500" z="10300" r="100" d="2"/><!-- AIRFIELD -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="4" x="4500" z="10300" r="100" d="2"/><!-- AIRFIELD -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="6" x="7930" z="14600" r="120" d="2"/><!-- TROITSKOE -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="6" x="7930" z="14600" r="100" d="2"/><!-- TROITSKOE -->
+		  </territory>
+</territory-type>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4294923520"><!-- SKALISTY -->
+		<zone name="HuntingGround" smin="1" smax="1" dmin="1" dmax="1" x="13874" z="2920" r="50" d="2"/>
+	</territory>
+
+</territory-type>

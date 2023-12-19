@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4294923520">
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="5" x="13673" z="3150" r="15" d="2"/><!-- SKALISTY-->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="5" x="13673" z="3150" r="15" d="2"/><!-- SKALISTY-->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="3" dmax="15" x="7990" z="7250" r="150" d="2"/><!-- NOVY SOBOR-->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="3" dmax="6" x="7930" z="7250" r="150" d="2"/><!-- NOVY SOBOR-->
+		  </territory>
+</territory-type>

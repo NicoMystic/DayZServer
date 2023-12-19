@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4294923520"><!-- SKALISTY -->
+		<zone name="AnimalBearMutantXZPGigant" smin="1" smax="2" dmin="1" dmax="2" x="13560" z="3045" r="5" d="2"/>
+		<zone name="AnimalBearMutantXZPGigant" smin="1" smax="2" dmin="1" dmax="2" x="14050" z="2929" r="1" d="2"/>
+	</territory>
+	
+</territory-type>

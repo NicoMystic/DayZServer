@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4291611852">
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="5" x="13458" z="3293" r="15" d="2"/><!-- SKALISTY CASTLE-->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="5" x="13458" z="3293" r="15" d="2"/><!-- SKALISTY CASTLE -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="5" x="13625" z="3147" r="15" d="2"/><!-- SKALISTY PRAIRIE EST -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="5" x="13635" z="3250" r="15" d="2"/><!-- SKALISTY PRAIRIE EST -->
+	</territory>	
+
+
+<territory color="4291611852">
+		<zone name="HuntingGround" smin="0" smax="0" dmin="3" dmax="10" x="1100" z="14600" r="80" d="2"/><!-- TISY -->
+		<zone name="HuntingGround" smin="3" smax="4" dmin="1" dmax="1" x="580" z="13654.0" r="105" d="2"/><!-- TISY -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="3" dmax="10" x="590" z="13654.0" r="80" d="2"/><!-- TISY -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="3" dmax="5" x="13260" z="6080" r="30" d="2"/><!-- SOLNECHY -->
+	</territory>	
+</territory-type>
