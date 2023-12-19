@@ -1,0 +1,44 @@
+	
+		<file path="env/MutantDog_territories.xml" />
+		<file path="env/MutantPseDog_territories.xml" />
+		<file path="env/MutantGigant_territories.xml" />
+		<file path="env/MutantHimeraSuper_territories.xml" />
+		<file path="env/MutantHimera_territories.xml" />
+		<file path="env/MutantFresh_territories.xml" />
+		<file path="env/MutantCat_territories.xml" />
+		<file path="env/MutantBoar_territories.xml" />
+		<file path="env/MutantIzlom_territories.xml" />
+		<file path="env/MutantTushkano_territories.xml" />
+		
+
+	<!-- Mutants -->
+		<territory type="Herd" name="MutantTushkano" behavior="DZWolfGroupBeh">
+			<file usable="MutantTushkano_territories" />
+		</territory>
+		<territory type="Herd" name="MutantIzlom" behavior="DZWolfGroupBeh">
+			<file usable="MutantIzlom_territories" />
+		</territory>
+		<territory type="Herd" name="MutantHimeraSuper" behavior="DZWolfGroupBeh">
+			<file usable="MutantHimeraSuper_territories" />
+		</territory>
+		<territory type="Herd" name="MutantHimera" behavior="DZWolfGroupBeh">
+			<file usable="MutantHimera_territories" />
+		</territory>
+		<territory type="Herd" name="MutantGigant" behavior="BlissBearGroupBeh">
+			<file usable="MutantGigant_territories"/>
+		</territory>
+		<territory type="Herd" name="MutantDog" behavior="DZWolfGroupBeh">
+			<file usable="MutantDog_territories" />
+		</territory>
+		<territory type="Herd" name="MutantPseDog" behavior="DZWolfGroupBeh">
+			<file usable="MutantPseDog_territories" />
+		</territory>
+		<territory type="Herd" name="MutantFresh" behavior="DZWolfGroupBeh">
+			<file usable="MutantFresh_territories" />
+		</territory>
+		<territory type="Herd" name="MutantCat" behavior="DZWolfGroupBeh">
+			<file usable="MutantCat_territories" />
+		</territory>
+		<territory type="Herd" name="MutantBoar" behavior="DZWolfGroupBeh">
+			<file usable="MutantBoar_territories" />
+		</territory>
